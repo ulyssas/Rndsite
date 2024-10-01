@@ -2,4 +2,4 @@
 
 ## Randomizer - A better dice alternative made for iPhone
 
-https://github.com/ulyssas/Randomizer
+https://github.com/WimPum/Randomizer
